@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Анастасия Васинская](https://up.htmlacademy.ru/adaptive/21/user/811447).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
